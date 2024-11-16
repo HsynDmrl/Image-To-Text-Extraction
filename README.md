@@ -72,7 +72,3 @@ Bu proje aşağıdaki kütüphaneleri kullanmaktadır:
 Projeyi geliştirmek için katkılarınızı bekliyoruz. Fork yapabilir, pull request gönderebilir veya önerilerde bulunabilirsiniz.
 
 ---
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
