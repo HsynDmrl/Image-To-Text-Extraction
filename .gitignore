@@ -1,0 +1,13 @@
+# Node.js modülleri
+node_modules/
+
+# Çevresel değişkenler
+.env
+
+# Log dosyaları
+*.log
+
+# IDE ve sistem dosyaları
+.vscode/
+*.DS_Store
+Thumbs.db
